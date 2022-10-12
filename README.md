@@ -1,10 +1,6 @@
 # The Carpentries Workbench Template R Markdown Lesson
 
-This lesson is a template lesson that uses [The Carpentries Workbench][workbench].
+A template for lesson repositories that can be used for demonstration purposes.
 
-To get started using this template, make sure you're logged into Github and visit https://github.com/carpentries/workbench-template-rmd/generate
-and follow the instructions.
-
-If you have any questions, contact [@zkamvar](https://github.com/zkamvar)
-
-[workbench]: https://carpentries.github.io/sandpaper-docs/
+Warning: the files in all branches of this repository are designed to contain errors. 
+The repository and lesson are not intended for use as a guide to best practices with The Carpentries Workbench.
