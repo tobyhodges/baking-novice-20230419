@@ -1,4 +1,4 @@
-# The Carpentries Workbench Template R Markdown Lesson
+# crispy-doodle
 
 A template for lesson repositories that can be used for demonstration purposes.
 
