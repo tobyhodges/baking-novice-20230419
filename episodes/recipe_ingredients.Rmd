@@ -1,0 +1,20 @@
+---
+title: "Cinnamon Roll Ingredients"
+teaching: 10
+exercises: 2
+---
+
+:::::::::::::::::::::::::::::::::::::: questions 
+
+- What are the ingredients for Zhian's cinnamon roll recipe?
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::: objectives
+
+- Be able to put together your shopping list
+- Convert between metric and imperial units, if necessary
+- Double the recipe if you're really hungry
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+

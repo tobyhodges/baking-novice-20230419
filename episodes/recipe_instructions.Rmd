@@ -1,0 +1,19 @@
+---
+title: "Using RMarkdown"
+teaching: 10
+exercises: 2
+---
+
+:::::::::::::::::::::::::::::::::::::: questions 
+
+- How do you prepare Zhian's cinnamon rolls?
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::: objectives
+
+- Be able to produce a batch of delicious cinnamon rolls
+- Understand how to adjust proofing time
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
