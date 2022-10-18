@@ -6,7 +6,7 @@ exercises: 2
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- What are the ingredients for Zhian's cinnamon roll recipe?
+- What are the ingredients needed for the cinnamon rolls?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -18,3 +18,73 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+```{r setup, include=FALSE}
+library(tidyverse)
+```
+
+
+## Ingredients
+
+
+```{r ingredients}
+main_ingredients <- tribble(
+  ~ingredient, ~amount_imperial, ~amount_grams,
+  "butter (cold)", "8 tablespoons", 113,
+  "all-purpose flour", "2 ½ cups", 300,
+  "sourdough starter discard", "⅓ cup", 100,
+  "buttermilk", "1 cup", 240,
+  "honey or granulated sugar", "1 tbsp + 1 tsp", 25,
+  "fine sea salt", "¾ teaspoon", 4,
+  "baking powder", "1 tsp", NA,
+  "baking soda", "½ cup", NA)
+
+main_ingredients %>% 
+  kableExtra::kable(align = "r")
+```
+
+
+### Cinnamon-sugar filling
+
+```{r}
+filling_ingredients <- tribble(
+  ~ingredient, ~amount_imperial, ~amount_grams,
+  "light brown sugar", "¾ cup", 150,
+  "ground cinnamon", "2 teaspoons", NA,
+  "butter (melted)", "4 tablespoons", 56)
+
+filling_ingredients %>% 
+  kableExtra::kable(align = "r")
+```
+
+
+### Glaze 
+
+```{r}
+glaze_ingredients <- tribble(
+  ~ingredient, ~amount_imperial, ~amount_grams,
+  "powdered sugar", "1 cup", 120,
+  "butter (melted)", "1 tablespoon", 14,
+  "vanilla extract", "1 teaspoon", 5,
+  "milk", "2 tablespoons", 30)
+
+glaze_ingredients %>% 
+  kableExtra::kable(align = "r")
+```
+
+::::::::::::::::::::::::::::::::::::: challenge
+
+Add a column to `main_ingredients` that has the amount in ounces (weight, not fluid oz).
+
+::::::::::::::::::::::::::::::::::::: solution
+
+```{r}
+main_ingredients <- main_ingredients %>% 
+  mutate(amount_oz = amount_grams * 0.035274)
+
+main_ingredients
+```
+
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::
