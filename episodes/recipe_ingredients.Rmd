@@ -25,7 +25,9 @@ library(tidyverse)
 
 ## Ingredients
 
+There are 3 main components to this recipe: the main ingredients for the dough, the ingredients for the cinnamon-sugar filling, and the ingredients for the glaze.
 
+### Dough Ingredients
 ```{r ingredients}
 main_ingredients <- tribble(
   ~ingredient, ~amount_imperial, ~amount_grams,
