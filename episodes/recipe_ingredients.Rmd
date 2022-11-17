@@ -28,6 +28,7 @@ library(tidyverse)
 There are 3 main components to this recipe: the main ingredients for the dough, the ingredients for the cinnamon-sugar filling, and the ingredients for the glaze.
 
 ### Dough Ingredients
+
 ```{r ingredients}
 main_ingredients <- tribble(
   ~ingredient, ~amount_imperial, ~amount_grams,
@@ -44,6 +45,15 @@ main_ingredients %>%
   kableExtra::kable(align = "r")
 ```
 
+::::::::::::::::::::::::::::: callout
+
+**Recipe modifications:**
+
+You can use **active** sourdough starter instead of discard, if you so choose. There will be a slight modification to the recipe if that is the case.
+
+In warmer climates, you may want to reduce the amount of buttermilk and/or increase the amount of flour to produce a less sticky, more manageable dough. You may have to experiment a bit.
+
+:::::::::::::::::::::::::::::
 
 ### Cinnamon-sugar filling
 
@@ -72,6 +82,13 @@ glaze_ingredients <- tribble(
 glaze_ingredients %>% 
   kableExtra::kable(align = "r")
 ```
+
+::::::::::::::::::::::::::::::::::::: instructor
+
+It's worth emphasizing to your learners that there are many valid ways of accomplishing this task in R, whether using a `tidyverse` or base R approach.
+
+::::::::::::::::::::::::::::::::::::: 
+
 
 ::::::::::::::::::::::::::::::::::::: challenge
 

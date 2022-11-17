@@ -6,71 +6,62 @@ exercises: 2
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How do you prepare the sourdough cinnamon rolls?
+- How do you prepar the sourdough cinnamon rolls?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Be able to produce a batch of delicious cinnamon rolls
-- Understand how to adjust proofing time
+- Be able to prduce a batch of delicious cinnamon rolls
+- Understand how to adjust proooofing time
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-## THE NIGHT BEFORE
+## The Night Before
 
 **Mix the dough:** 
 
-- Use a cheese grater to grate the cold butter into a mixing bowl. 
-- Add the flour and use a bench scraper or pastry cutter to cut the butter into the flour.
+- Use a box grater to shred the cold butter into a large mixing bowl.
+- Add the flour to the bowl and use a fork, bench scraper, or pastry cutter (if you have one) to cut the butter into the flour.
 - Add the sourdough starter discard, buttermilk, honey and salt.
-- Mix with a spatula until the ingredients are well incorporated.
-- Cover the bowl and let rest on the counter for 10-12 hours. (DO NOT add the baking soda or baking powder. This will be added right before rolling out the dough)
+- Use a spatula or wooden spoon to mix until the ingredients are well incorporated.
+- Cover the bowl and let it rest for 10-12 hours, depending on the temperature of your kitchen (more time for cooler kitchens, less time for warmer ones).
 
-## THE NEXT MORNING
+## The Next Morning
 
 **Make cinnamon sugar filling and glaze:**
 
-- Mix the brown sugar and cinnamon in a small bowl, set aside. 
-- In a separate bowl, mix the glaze ingredients and set aside.
-- Preheat oven to 375°F (190°C) and butter a 12" cast iron skillet.
+- Mix the brown sugar and cinnamon in a small bowl.
+- In a separate bowl, mix the glaze ingredients.
+- Preheat oven to 375°F (190°C) and butter a 12" cast iron skillet or deep baking container (glass or enamel will work just fine).
 
-**Add leavening agents:**
+**Add leavening agents to dough:**
 
-- Mix the baking powder and baking soda in a small bowl with a fork until there are no visible lumps.
-- Sprinkle the mixture on top of the dough and mix it in with your hands.
+*If using active sourdough starter, skip this step.*
+
+- Use a fork to mix the baking powder and baking soda in a small bowl until they are evenly mixed with no clumps.
+- Sprinkle the mixture evenly on top of the dough and use your hands to mix it in, distributing it evenly throughout the dough.
 
 **Roll out the dough:**
 
-- Generously flour your work surface and turn the dough onto it.
-- Flour the top of the dough.
-- Use a rolling pin to roll the dough into a 12" x 22" rectangle.
+- Flour your work surface generously and tip the dough out of the bowl onto it.
+- Sprinkle flour across the top of the dough.
+- Use a rolling pin to roll the dough into a roughly 12" x 24" (30cm x 61cm) rectangle, which should be about 1/4" (0.5cm) thick.
 
 **Cut out rolls:**
 
-- Use a pastry brush to coat the top of the dough with melted butter and sprinkle the cinnamon-sugar mixture evenly over the surface, leaving a half inch bare along the edges.
-- Starting on one side, roll the dough into a log shape.
-- Use the bench-scraper to cut the log into 12 pieces (approximately 1.5 inches).
-- Arrange the portions in the cast iron skillet, leaving space in between each piece to expand.
+- Use a pastry brush to coat the top of the dough with melted butter. If you don't have a pastry brush, you can drizzle it and use a finger to spread it somewhat evenly.
+- Sprinkle the cinnamon-sugar mixture evenly over the surface of the rolls so that it sticks to the melted butter, leaving a half inch (1cm) bare along the edges.
+- Starting on one of the long sides of the rectangle, roll the dough into a log shape, so the log is about 24" (61cm) long
+- Use the bench scraper or a knife to cut the log into 12 pieces, approximately 2 inches (5cm) long.
+- Arrange the pieces in the baking vessel so the "swirls" are upright, leaving space in between each piece so they can expand while baking.
 
 **Bake:**
 
-- Bake the cinnamon rolls for 35-40 minutes or until the tops are golden brown.
-- Remove from the oven and glaze while hot.
+- Bake the cinnamon rolls for 35-40 minutes or until the tops show a nice golden-brown color.
+- Remove from the oven and drizzle glaze over the rolls while they are still hot.
 
-## NOTES
+![](fig/cinnamon-rolls-in-the-oven.jpg){alt='A bunch of cinnamon rolls in a baking tray in an oven.'}
+A batch of cinnamon rolls partway through baking, wafting a very tempting aroma throughout the kitchen.
 
-In warmer months, the following adjustments will help with a less sticky dough:
-
-Buttermilk: reduce to ¾ cup (180g) of milk.
-
-Flour: Increased from to 2 ¾ cups (345g) flour.
-
-Use the scoop and level technique to measure your flour if you do not have a kitchen scale. To do this, use a spoon to fluff up the flour in the bag. Use a spoon to scoop the flour into a measuring cup until it is heaped on top. Take a butterknife and level off the top. This should give you the most accurate measurement for flour.
-
-For a lighter cinnamon roll glaze, mix 1 cup of powdered sugar with a teaspoon of milk. Give it a stir and add a little more milk at a time until you get the consistency you're looking for.
-
-A baking sheet or spring-form pan can be used in place of a cast iron skillet.
-
-Active sourdough starter can be used if desired. Add the salt to the initial mix and skip adding the baking soda and baking powder to the dough. After cutting the cinnamon rolls out, let rise in the skillet for 1-1.5 hours at room temperature before baking.
