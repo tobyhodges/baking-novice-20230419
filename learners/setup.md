@@ -4,7 +4,7 @@ title: Setup/Equipment
 
 ## Equipment
 
-You will need the following equipment to bake these sourdough cinnamon rolls:
+You will need the following equipment to bake these sourdough cardamom rolls:
 
 - Baking vessel, you could use one of the following:
   - 12" cast iron skillet

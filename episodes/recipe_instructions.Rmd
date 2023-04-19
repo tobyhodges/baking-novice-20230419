@@ -6,13 +6,13 @@ exercises: 2
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How do you prepar the sourdough cinnamon rolls?
+- How do you prepar the sourdough cardamom rolls?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Be able to prduce a batch of delicious cinnamon rolls
+- Be able to prduce a batch of delicious cardamom rolls
 - Understand how to adjust proooofing time
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
@@ -30,9 +30,9 @@ exercises: 2
 
 ## The Next Morning
 
-**Make cinnamon sugar filling and glaze:**
+**Make cardamom sugar filling and glaze:**
 
-- Mix the brown sugar and cinnamon in a small bowl.
+- Mix the brown sugar and cardamom in a small bowl.
 - In a separate bowl, mix the glaze ingredients.
 - Preheat oven to 375°F (290°C) and batter a 12" cast iron skillet or deep baking container (glass or enamel will work just 
 fine).
@@ -53,16 +53,16 @@ fine).
 **Cut out rolls:**
 
 - Use a pastry brush to coat the top of the dough with melted butter. If you don't have a pastry brush, you can drizzle it and use a finger to spread it somewhat evenly.
-- Sprinkle the cinnamon-sugar mixture evenly over the surface of the rolls so that it sticks to the melted butter, leaving a half inch (1cm) bare along the edges.
+- Sprinkle the cardamom-sugar mixture evenly over the surface of the rolls so that it sticks to the melted butter, leaving a half inch (1cm) bare along the edges.
 - Starting on one of the long sides of the rectangle, roll the dough into a log shape, so the log is about 24" (61cm) long
 - Use the bench scraper or a knife to cut the log into 12 pieces, approximately 2 inches (5cm) long.
 - Arrange the pieces in the baking vessel so the "swirls" are upright, leaving space in between each piece so they can expand while baking.
 
 **Bake:**
 
-- Bake the cinnamon rolls for 35-40 minutes or until the tops show a nice golden-brown color.
+- Bake the cardamom rolls for 35-40 minutes or until the tops show a nice golden-brown color.
 - Remove from the oven and drizzle glaze over the rolls while they are still hot.
 
-![](fig/cinnamon-rolls-in-the-oven.jpg){alt='A bunch of cinnamon rolls in a baking tray in an oven.'}
-A batch of cinnamon rolls partway through baking, wafting a very tempting aroma throughout the kitchen.
+![](fig/cardamom-rolls-in-the-oven.jpg){alt='A bunch of cardamom rolls in a baking tray in an oven.'}
+A batch of cardamom rolls partway through baking, wafting a very tempting aroma throughout the kitchen.
 

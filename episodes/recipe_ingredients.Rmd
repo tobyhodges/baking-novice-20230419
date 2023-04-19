@@ -1,12 +1,12 @@
 ---
-title: "Cinnamon Roll Ingredients"
+title: "Cardamom Roll Ingredients"
 teaching: 10
 exercises: 2
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- What are the ingredients needed for the cinnamon rolls?
+- What are the ingredients needed for the cardamom rolls?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -25,7 +25,7 @@ library(tidyverse)
 
 ## Ingredients
 
-There are 3 main components to this recipe: the main ingredients for the dough, the ingredients for the cinnamon-sugar filling, and the ingredients for the glaze.
+There are 3 main components to this recipe: the main ingredients for the dough, the ingredients for the cardamom-sugar filling, and the ingredients for the glaze.
 
 ### Dough Ingredients
 
@@ -55,13 +55,13 @@ In warmer climates, you may want to reduce the amount of buttermilk and/or incre
 
 :::::::::::::::::::::::::::::
 
-### Cinnamon-sugar filling
+### Cardamom-sugar filling
 
 ```{r}
 filling_ingredients <- tribble(
   ~ingredient, ~amount_imperial, ~amount_grams,
   "light brown sugar", "¾ cup", 150,
-  "ground cinnamon", "2 teaspoons", NA,
+  "ground cardamom", "2 teaspoons", NA,
   "butter (melted)", "4 tablespoons", 56)
 
 filling_ingredients %>% 
